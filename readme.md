@@ -11,13 +11,13 @@ This repository is a personal project to document my journey of learning **Data 
 
 ## 📝 Progress Tracker
 
-The learning process is broken down into **bite-sized topics** and **practice exercises**. Each topic will be completed in a progressive manner, ensuring a thorough understanding of every concept. You can track my progress in the **[Progress Tracker](PROGRESS-TRACKER.md)** document, which provides a checklist of topics to cover.
+The learning process is broken down into **bite-sized topics** and **practice exercises**. Each topic will be completed in a progressive manner, ensuring a thorough understanding of every concept. You can track my progress in the **[Progress Tracker](progress.md)** document, which provides a checklist of topics to cover.
 
 ## 🔧 Repo Structure
 
 The structure of this repository is organized to reflect the stages of my learning:
 
-- **[PROGRESS-TRACKER.md](PROGRESS-TRACKER.md)**: A detailed list of topics to learn and track.
+- **[PROGRESS-TRACKER.md](progress.md)**: A detailed list of topics to learn and track.
 - **[CONTRIBUTING.md](CONTRIBUTING.md)**: Information about contributing (This repo is for personal use, so contributions are not being accepted).
 - **Code Implementations**: Each topic will have a folder with C++ implementations, explanations, and problem-solving strategies.
   
@@ -43,7 +43,7 @@ This repository will cover a wide range of topics in DSA, including:
 16. **Computational Geometry**
 17. **Miscellaneous Topics**
 
-For detailed topics and concepts, refer to the **[Progress Tracker](PROGRESS-TRACKER.md)**.
+For detailed topics and concepts, refer to the **[Progress Tracker](progress.md)**.
 
 ## 🏆 Problem Solving Practice
 
@@ -60,7 +60,7 @@ To reinforce the learning, I will regularly solve problems from the following pl
 
 ### 1. Track Your Progress
 
-As you work through the topics, update the **[Progress Tracker](PROGRESS-TRACKER.md)** by marking the topics you've completed.
+As you work through the topics, update the **[Progress Tracker](progress.md)** by marking the topics you've completed.
 
 ### 2. Explore Code Implementations
 
